@@ -5,4 +5,4 @@ while True:
        print('Aww yeah! This is happenin!')
        quit()
     else:
-       print('Skill issue! Try again.')
+       print('Skill issue! Try again. ')
